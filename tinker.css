@@ -1,0 +1,68 @@
+body {
+    background-image: url('bgcorona.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+  }
+  .mainh{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+
+  }
+  .left{
+    width: 40%;
+    height: 100%;
+    left: 0%;
+    
+    
+  }
+  .limg{
+    margin-left: 5px;
+  }
+  .fimg{
+    width: 70%;
+    height: 50%;
+  }
+  .fdes{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+  }
+  .right{
+    width: 60%;
+    height: 100%;
+    right: 0%;
+    float: right;
+    overflow: auto;
+    
+  }
+  .mask{
+    color: skyblue;
+    text-align: center;
+    font-size: 75px;
+  }
+  .sdes{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+  }
+  .simg{
+    margin-left:60px;
+    border-radius: 100%;
+    border-style: inset;
+    width: 60%;
+  }
+  .info{
+    margin-left: 120px;
+    margin-bottom: 100px;
+    width: 66%;
+  }
+  .inf{
+    margin-left: 60px;
+    margin-bottom: 100px;
+    width:80%;
+  }
+  .new{
+    float:right;
+  }
+  
